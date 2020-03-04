@@ -1,6 +1,6 @@
 .footer {
   background-color: $color-secondary;
-  grid-column: sidebar-start / full-end;
+  grid-column: 1 / -1;
 
   padding: 8rem;
 }
